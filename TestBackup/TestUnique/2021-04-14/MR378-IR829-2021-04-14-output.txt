@@ -1,0 +1,17 @@
+OUTPUT FROM SHOW COMMANDS for: 172.16.0.13 
+
+############ show run | i hostname ################
+
+hostname MR378-IR829
+
+############ show cellular 0/0 all | i IMEI ################
+
+International Mobile Equipment Identity (IMEI) = 999111110740678
+
+############ show version | i Processor ################
+
+Processor board ID F112502D04Q
+
+############ show mac | i Vlan1 ################
+
+e111.7b3e.f6e0          Self          1     Vlan1
